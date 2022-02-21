@@ -17,6 +17,7 @@
             "name": "TetraSwap",
             "buildsystem": "simple",
             "build-commands": [
+                "ls",
 				"install -Dm755 -t /app/bin/ TetraSwap",
 				"install -t /app/bin UnityPlayer.so",
 				"cp -r TetraSwap_Data /app/bin/",
@@ -29,8 +30,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://launcher.eclipium.xyz/Source/TetraSwap-1.2.tar.gz",
-                    "sha256": "fa3b01e68e7d497c95143c015bbf4337ad78fea57365d11c5b63b0ad0bb5e9a9"
+                    "url": "https://launcher.eclipium.xyz/Source/TetraSwap-Linux-1.2.tar.gz",
+                    "sha256": "96a37c7bba2bce3d2f7104c60309db71c16aaf2eff3849d93a4fed30ee6b97a1"
                 },
                 {
                     "type": "file",
