@@ -29,8 +29,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://launcher.eclipium.xyz/Source/TetraSwap-1.1.tar.gz",
-                    "sha256": "9d9575435612c0d9b55f24e69608f166563b92fe9c32497600492006093f7b18"
+                    "url": "https://launcher.eclipium.xyz/Source/TetraSwap-1.2.tar.gz",
+                    "sha256": "fa3b01e68e7d497c95143c015bbf4337ad78fea57365d11c5b63b0ad0bb5e9a9"
                 },
                 {
                     "type": "file",
