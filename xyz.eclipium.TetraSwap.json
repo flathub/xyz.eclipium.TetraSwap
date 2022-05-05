@@ -30,8 +30,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://launcher.eclipium.xyz/Source/TetraSwap-Linux-1.3.tar.gz",
-                    "sha256": "13a20509668739ac50a80ad1f673d8e6015ec0b96dbeb23433b0523c62dec2ee"
+                    "url": "https://launcher.eclipium.xyz/Source/tetraswap-source-1.3.1.tar.gz",
+                    "sha256": "35fc3ad601651824871175246033b53c11e35fac4ac9b6bab685a5e935d5ba0d"
                 },
                 {
                     "type": "file",
