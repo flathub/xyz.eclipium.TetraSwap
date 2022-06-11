@@ -6,7 +6,7 @@
  <project_license>LicenseRef-proprietary</project_license>
  <name>TetraSwap</name>
  <icon type="remote" width="1024" height="1024">https://launcher.eclipium.xyz/Images/TetraSwap.png</icon>
- <summary xml:lang="en">A simple but challenging futuristic puzzle game!</summary>
+ <summary>A simple but challenging futuristic puzzle game!</summary>
  <summary xml:lang="fr">Un jeu de réflexion futuriste simple mais difficile!</summary>
  <categories>
     <category>Game</category>
