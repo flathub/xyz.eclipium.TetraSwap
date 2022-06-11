@@ -6,12 +6,12 @@
  <project_license>LicenseRef-proprietary</project_license>
  <name>TetraSwap</name>
  <icon type="remote" width="1024" height="1024">https://launcher.eclipium.xyz/Images/TetraSwap.png</icon>
- <summary lang="en_US">A simple but challenging futuristic puzzle game!</summary>
- <summary lang="fr_FR">Un jeu de réflexion futuriste simple mais difficile!</summary>
+ <summary xml:lang="en">A simple but challenging futuristic puzzle game!</summary>
+ <summary xml:lang="fr">Un jeu de réflexion futuriste simple mais difficile!</summary>
  <categories>
     <category>Game</category>
  </categories>
-  <description lang="en_US">
+  <description xml:lang="en">
   <p>
   TetraSwap is a futuristic puzzle game available on phone, tablet and computer.
 The game is composed of a board made of several colored squares (2 to 4 colors) as well as colored tokens and a gray token, the goal of the game being to place all the tokens on their corresponding colored squares, it could seem easy but think again! Because the only way to move them is to use the grey chip, which is complicated to master.
@@ -25,7 +25,7 @@ For fans of customization, the game has 6 token designs, 6 backgrounds, and for 
 The game also has a cross-device synchronization system and an online leaderboard powered by an Eclipium account.
  </p>
  </description>
-   <description lang="fr_FR">
+   <description xml:lang="fr">
   <p>
 TetraSwap est un jeu de réflexion futuriste disponible sur téléphone tablette et ordinateur.
 Le jeu est composé d'un plateau composé de plusieurs cases colorées (2 à 4 couleurs) ainsi que de jetons colorés et d'un jeton gris, le but du jeu étant de placer tous les jetons sur leurs cases de couleur correspondante, cela pourrait vous sembler facile mais détrompez vous ! Car le seul moyen de les déplacer est d'utiliser le jeton gris, compliqué à maîtriser.
