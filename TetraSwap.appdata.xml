@@ -18,7 +18,7 @@ The game is composed of a board made of several colored squares (2 to 4 colors) 
  </p>
  <p>
  There are 3 game modes:
-Classic: Possessing 128 levels (can increase with updates), with various game mechanics introduced over the levels.
+Classic: Possessing 144 levels (can increase with updates), with various game mechanics introduced over the levels.
 Random: The game randomly generates a board with a defined number of squares and colors.
 Daily: Take on daily challenges and try to beat your friends in the leaderboard.
 For fans of customization, the game has 6 token designs, 6 backgrounds, and for music lovers a set of 5 tunes each with a defined background.
@@ -32,7 +32,7 @@ Le jeu est composé d'un plateau composé de plusieurs cases colorées (2 à 4 c
  </p>
  <p>
  Il y a 3 modes de jeu :
-Classique : Possédant 128 niveaux (peut augmenter au fil des mises à jour), avec diverses mécaniques de jeu introduites au fil des niveaux.
+Classique : Possédant 144 niveaux (peut augmenter au fil des mises à jour), avec diverses mécaniques de jeu introduites au fil des niveaux.
 Aléatoire : Le jeu génère aléatoirement un plateau avec un nombre de cases et de couleurs définis.
 Journalier : Relevez les défis journaliers et essayez de dépasser vos amis dans le classement.
 Pour les fans de personnalisation, le jeu possède 6 designs de jetons, 6 arrières-plans, et pour les mélomanes un lot de 5 musiques chacune allant avec un arrière-plan défini.
@@ -81,6 +81,7 @@ Pour les fans de personnalisation, le jeu possède 6 designs de jetons, 6 arriè
   <control>touch</control>
 </supports>
 <releases>
+  <release version="1.4" date="2022-09-12" />
   <release version="1.3.2" date="2022-06-01" />
   <release version="1.3.1" date="2022-05-05" />
   <release version="1.3" date="2022-04-10" />
